@@ -4,7 +4,7 @@
 > Java Program: MasterMind
 
 [![Build Status](https://travis-ci.com/alvinau0427/ITP3914-Assignment.svg?branch=master)](https://travis-ci.org/alvinau0427/ITP3914-Assignment)
-[![MIT License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Getting Started
 1. Make sure you understand how to play the Mastermind game. For simplicity, we use the numeric digit to represent that color `(i.e. 1 - "Blue", 2 - "Green", 3 - "Orange", 4 - "Purple", 5 - "Red", 6 - "Yellow")`.
@@ -25,10 +25,10 @@ $ java MasterMind
 ```
 
 ## Screenshots
-![image](https://github.com/alvinau0427/ITP3914-Assignment/blob/master/doc/demo.gif)
+![Image](https://github.com/alvinau0427/ITP3914-Assignment/blob/master/doc/demo.gif)
 
 ## License
-- ITP3914-Assignment is released under the [MIT license](https://opensource.org/licenses/MIT).
+- ITP3914-Assignment is released under the [MIT License](https://opensource.org/licenses/MIT).
 ```
 Copyright (c) 2020 alvinau0427
 
