@@ -3,7 +3,8 @@
 
 > Java Program: MasterMind
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![Build Status](https://travis-ci.com/alvinau0427/ITP3914-Assignment.svg?branch=master)](https://travis-ci.org/timusus/Shuttle)
+[![MIT License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Getting Started
 1. Make sure you understand how to play the Mastermind game. For simplicity, we use the numeric digit to represent that color `(i.e. 1 - "Blue", 2 - "Green", 3 - "Orange", 4 - "Purple", 5 - "Red", 6 - "Yellow")`.
