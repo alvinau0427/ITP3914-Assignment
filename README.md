@@ -3,7 +3,7 @@
 
 > Java Program: MasterMind
 
-[![Build Status](https://travis-ci.com/alvinau0427/ITP3914-Assignment.svg?branch=master)](https://travis-ci.org/timusus/Shuttle)
+[![Build Status](https://travis-ci.com/alvinau0427/ITP3914-Assignment.svg?branch=master)](https://travis-ci.org/alvinau0427/ITP3914-Assignment)
 [![MIT License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Getting Started
